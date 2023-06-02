@@ -1,5 +1,5 @@
 # dalle_hidden_words
-<h3>A brief alphabet shows the correspondence between the self-created words by dalle to english.</h3>
+<h3>A brief alphabet which shows the correspondence between the self-created words by dalle to english.</h3>
 
 <p>There remains no steady proof that AI image generators like DALLE can slowly evolve a lauguage for itself based on millions of generation actions, 
 but through https://arxiv.org/abs/2206.00169, the author has actually found some words that correspondent to English, like "Apoploe vesrreaitais" means birds,
